@@ -7,7 +7,7 @@ null,
 {"id":5,"expanded":true,"name":"KAT'S ROOM VN","order":6,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":6,"expanded":true,"name":"KAT'S ROOM2","order":5,"parentId":4,"scrollX":832,"scrollY":640},
 {"id":7,"expanded":true,"name":"Phone Menu","order":7,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":8,"expanded":false,"name":"Hallway","order":8,"parentId":0,"scrollX":1012.4444444444445,"scrollY":409.77777777777777},
+{"id":8,"expanded":false,"name":"Hallway","order":8,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":9,"expanded":true,"name":"JulesRoom VN","order":9,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":10,"expanded":false,"name":"Jules' Room","order":10,"parentId":9,"scrollX":459,"scrollY":312.5}
 ]
