@@ -11,5 +11,5 @@ null,
 {"id":9,"expanded":true,"name":"Jules Room VN","order":9,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":10,"expanded":true,"name":"Jules' Room","order":10,"parentId":9,"scrollX":832,"scrollY":640},
 {"id":11,"expanded":true,"name":"Protag's Room VN","order":12,"parentId":12,"scrollX":0,"scrollY":0},
-{"id":12,"expanded":false,"name":"POLICE VN","order":11,"parentId":0,"scrollX":0,"scrollY":0}
+{"id":12,"expanded":false,"name":"POLICE VN","order":11,"parentId":0,"scrollX":832,"scrollY":640}
 ]
