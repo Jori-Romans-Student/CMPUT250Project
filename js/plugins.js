@@ -12,5 +12,6 @@ var $plugins =
 {"name":"HIME_HMSChoiceDisplayMode","status":true,"description":"v1.3 - Customize the way choices are displayed","parameters":{"Default Choice Mode":"Embed","Choice Indent":"36\r"}},
 {"name":"RS_Window_KorNameEdit","status":true,"description":"This plugin allows you to type in korean in the Name Input Proccessing <RS_Window_KorNameEdit>","parameters":{"windowWidth":"auto","windowCenter":"false","editWindow_Opacity":"225","askingText":"Please enter the name","outlineWidth":"1","outlineColor":"black","fontColor":"white","standardFontSize":"28","Chinese Fonts":"SimHei, Heiti TC, sans-serif, Noto Sans","Korean Fonts":"Noto Sans, Dotum, AppleGothic, sans-serif","Default Fonts":"GameFont","Default CharWidth":"A","Default Background":"auto","Default Edit Button":"Edit","Default OK Button":"OK","Default Cancel Button":"Cancel"}},
 {"name":"animatedbusts","status":true,"description":"Allows animating pictures","parameters":{}},
-{"name":"AltMenu","status":true,"description":"alt menu","parameters":{"BackgroundPicture":"Nota-18675-tom-cruise","Window Opacity":"255"}}
+{"name":"AltMenu","status":true,"description":"alt menu","parameters":{"BackgroundPicture":"Nota-18675-tom-cruise","Window Opacity":"255"}},
+{"name":"HIME_HiddenChoiceConditions","status":true,"description":"Allows you to hide choices with a simple event call","parameters":{}}
 ];
