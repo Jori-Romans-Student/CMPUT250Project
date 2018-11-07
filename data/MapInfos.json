@@ -10,7 +10,7 @@ null,
 {"id":8,"expanded":true,"name":"Hallway","order":7,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":9,"expanded":true,"name":"Jules Room VN","order":8,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":10,"expanded":true,"name":"Jules' Room","order":9,"parentId":9,"scrollX":459,"scrollY":378},
-{"id":11,"expanded":true,"name":"Protag's Room VN","order":11,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":11,"expanded":true,"name":"Protag's Room VN","order":11,"parentId":0,"scrollX":415.5,"scrollY":445},
 {"id":12,"expanded":true,"name":"POLICE VN","order":10,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":13,"expanded":false,"name":"Venus' Room","order":12,"parentId":0,"scrollX":1012.4444444444445,"scrollY":409.77777777777777}
+{"id":13,"expanded":false,"name":"Venus' Room","order":12,"parentId":0,"scrollX":485,"scrollY":445}
 ]
