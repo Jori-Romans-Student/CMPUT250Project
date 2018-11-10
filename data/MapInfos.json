@@ -18,5 +18,5 @@ null,
 {"id":16,"expanded":true,"name":"Venus Room VN","order":16,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":17,"expanded":true,"name":"BB Room VN","order":18,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":18,"expanded":true,"name":"Protag's Room End","order":12,"parentId":11,"scrollX":418,"scrollY":445},
-{"id":19,"expanded":false,"name":"RF ending(anytime)","order":14,"parentId":11,"scrollX":0,"scrollY":0}
+{"id":19,"expanded":false,"name":"RF ending(anytime)","order":14,"parentId":11,"scrollX":398,"scrollY":445}
 ]
