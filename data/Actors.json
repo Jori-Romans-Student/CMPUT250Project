@@ -1,9 +1,9 @@
 [
 null,
-{"id":1,"battlerName":"","characterIndex":0,"characterName":"Jules test sprite","classId":1,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"VN1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kat","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"","characterIndex":0,"characterName":"Jules test sprite","classId":1,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"VN2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Venus","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"","characterIndex":0,"characterName":"Jules test sprite","classId":1,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"VN2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jules","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"","characterIndex":0,"characterName":"sprite sheet master-1","classId":1,"equips":[0,0,0,0,0],"faceIndex":10,"faceName":"VN2","traits":[],"initialLevel":1,"maxLevel":99,"name":"BB","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"","characterIndex":1,"characterName":"sprite sheet master resized","classId":1,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"VN1","traits":[],"initialLevel":1,"maxLevel":99,"name":"\\C[18]Kat\\C","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":4,"characterName":"sprite sheet master resized","classId":1,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"VN2","traits":[],"initialLevel":1,"maxLevel":99,"name":"\\C[28]Venus\\C","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"sprite sheet master resized","classId":1,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"VN2","traits":[],"initialLevel":1,"maxLevel":99,"name":"\\C[12]Jules\\C","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":5,"characterName":"sprite sheet master resized","classId":1,"equips":[0,0,0,0,0],"faceIndex":10,"faceName":"VN2","traits":[],"initialLevel":1,"maxLevel":99,"name":"\\C[27]BB\\C","nickname":"","note":"","profile":""},
 {"id":5,"battlerName":"","characterIndex":0,"characterName":"sprite sheet master-1","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"VN1","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},

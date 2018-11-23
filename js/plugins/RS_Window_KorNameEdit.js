@@ -269,7 +269,7 @@ Imported.Window_KorNameEdit = true;
   RSMatch.outlineColor = String(parameters['outlineColor'] || 'black');
   RSMatch.fontColor = String(parameters['fontColor'] || 'white');
   RSMatch.opacity = Number(parameters['editWindow_Opacity'] || 225);
-  RSMatch.askText = String(parameters['askingText'] || 'Please enter the name');
+  RSMatch.askText = String(parameters['askingText'] || 'press enter');
   RSMatch.standardFontSize = Number(parameters['standardFontSize'] || 28);
   RSMatch.fonts = {
     'ChineseFonts': parameters['Chinese Fonts'] || 'SimHei, Heiti TC, sans-serif',
