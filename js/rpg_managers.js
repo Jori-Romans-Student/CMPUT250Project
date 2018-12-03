@@ -2466,3 +2466,4 @@ PluginManager.loadScript = function(name) {
 PluginManager.onError = function(e) {
     this._errorUrls.push(e.target._url);
 };
+
