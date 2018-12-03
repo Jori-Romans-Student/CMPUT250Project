@@ -408,6 +408,7 @@ function Data_MenuCommand() {
   };
   
    /***************************************************************************/
+   /*******MAITHY ADDED THIS
   var TH_SceneMenu_closeMenu_createCommandWindow = Scene_Menu.prototype.createCommandWindow;
   Scene_Menu.prototype.createCommandWindow = function() {
 	TH_SceneMenu_closeMenu_createCommandWindow.call(this);
