@@ -1,0 +1,57 @@
+Renamed Jules test sprite.png to Jules_test_sprite.png
+Renamed sprite sheet master resized.png to sprite_sheet_master_resized.png
+Renamed sprite sheet master-1.png to sprite_sheet_master-1.png
+Renamed sprite sheet master.png to sprite_sheet_master.png
+Renamed victim room assets-1.png to victim_room_assets-1.png
+Renamed victim room assets-1trransparent.png to victim_room_assets-1trransparent.png
+Renamed BB 1.png to BB_1.png
+Renamed BB 2.png to BB_2.png
+Renamed BB 3.png to BB_3.png
+Renamed evidence paper stack1.png to evidence_paper_stack1.png
+Renamed evidence paper stack12.png to evidence_paper_stack12.png
+Renamed jules evidence icons-1.png to jules_evidence_icons-1.png
+Renamed jules evidence icons-2.png to jules_evidence_icons-2.png
+Renamed jules evidence icons-3.png to jules_evidence_icons-3.png
+Renamed jules evidence icons-4.png to jules_evidence_icons-4.png
+Renamed Tom Cruise.png to Tom_Cruise.png
+Renamed venus 1.png to venus_1.png
+Renamed venus 2.png to venus_2.png
+Renamed venus 3.png to venus_3.png
+Renamed venus 4.png to venus_4.png
+Renamed VN sprite master sheet-1 (2).png to VN_sprite_master_sheet-1_(2).png
+Renamed BAD END SCREEN.png to BAD_END_SCREEN.png
+Renamed BB VG BG V1.png to BB_VG_BG_V1.png
+Renamed GOOD END SCREEN.png to GOOD_END_SCREEN.png
+Renamed phone screen A.png to phone_screen_A.png
+Renamed phone screen.png to phone_screen.png
+Renamed venus VG BG V1.png to venus_VG_BG_V1.png
+Renamed ANGRY #1 COP 1.png to ANGRY_#1_COP_1.png
+Renamed ANGRY #2 COP 1.png to ANGRY_#2_COP_1.png
+Renamed ANGRY BB 1.png to ANGRY_BB_1.png
+Renamed ANGRY JULES 1.png to ANGRY_JULES_1.png
+Renamed ANGRY KAT 1.png to ANGRY_KAT_1.png
+Renamed ANGRY VENUS 1.png to ANGRY_VENUS_1.png
+Renamed flag icons.png to flag_icons.png
+Renamed HAPPY #1 COP 1.png to HAPPY_#1_COP_1.png
+Renamed HAPPY #2 COP 1.png to HAPPY_#2_COP_1.png
+Renamed HAPPY BB 1.png to HAPPY_BB_1.png
+Renamed HAPPY BB 2.png to HAPPY_BB_2.png
+Renamed HAPPY JULES 1.png to HAPPY_JULES_1.png
+Renamed HAPPY KAT 1.png to HAPPY_KAT_1.png
+Renamed HAPPY VENUS 1.png to HAPPY_VENUS_1.png
+Renamed phone screen.png to phone_screen.png
+Renamed BAD END SCREEN.png to BAD_END_SCREEN.png
+Renamed GOOD END SCREEN.png to GOOD_END_SCREEN.png
+Renamed bb room assets.png to bb_room_assets.png
+Renamed bb tileset.png to bb_tileset.png
+Renamed jules room assetsb.png to jules_room_assetsb.png
+Renamed jules room assetsc.png to jules_room_assetsc.png
+Renamed jules room assetsd (3).png to jules_room_assetsd_(3).png
+Renamed jules room assetsd.png to jules_room_assetsd.png
+Renamed venus black bg.png to venus_black_bg.png
+Renamed venus room assets .png to venus_room_assets_.png
+Renamed venus room assets.png to venus_room_assets.png
+Renamed venus room assets2 .png to venus_room_assets2_.png
+Renamed victim room assets 2.0-6.png to victim_room_assets_2.0-6.png
+Renamed victim room assets-1.png to victim_room_assets-1.png
+Renamed victim room assets.png to victim_room_assets.png
