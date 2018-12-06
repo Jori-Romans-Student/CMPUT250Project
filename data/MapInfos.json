@@ -20,6 +20,6 @@ null,
 {"id":18,"expanded":true,"name":"Protag's Room End","order":11,"parentId":11,"scrollX":477,"scrollY":319.5},
 {"id":19,"expanded":true,"name":"RF ENDING","order":15,"parentId":11,"scrollX":459,"scrollY":312.5},
 {"id":20,"expanded":false,"name":"LOGO","order":2,"parentId":3,"scrollX":819,"scrollY":448},
-{"id":21,"expanded":false,"name":"GOOD END SCREEN","order":13,"parentId":14,"scrollX":301,"scrollY":304.5},
+{"id":21,"expanded":false,"name":"GOOD END SCREEN","order":13,"parentId":14,"scrollX":832,"scrollY":640},
 {"id":22,"expanded":false,"name":"BAD END SCREEN","order":14,"parentId":14,"scrollX":301,"scrollY":304.5}
 ]
